@@ -41,14 +41,14 @@ The goal of this project is to build a multilingual machine translation system t
 - Python 3.7 or higher
 - GPU (Optional but recommended for faster inference)
 - Git
-- Dependencies listed in `requirements.txt`
+
 
 ### Steps
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/thaaru05/Machine-Translation.git
-   cd Machine-Translation
+ 
    ```
 
 2. **Create a Virtual Environment**
@@ -57,13 +57,6 @@ The goal of this project is to build a multilingual machine translation system t
    source venv/bin/activate  # For Windows: venv\Scripts\activate
    ```
 
-3. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Set Up API Keys (if applicable)**
-   - Ensure you have access to any required API keys for models or cloud services.
 
 ## Usage
 
