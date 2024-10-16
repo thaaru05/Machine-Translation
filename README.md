@@ -32,7 +32,7 @@ The goal of this project is to build a multilingual machine translation system t
 - **High Accuracy**: Uses Whisper for highly accurate speech-to-text, and mBART for multilingual translation.
 - **Modular Architecture**: The system is broken down into clear phases to support flexibility and scalability.
 - **OpenAI Whisper Model**: Used for high-quality speech recognition.
-- **TTS (Text-to-Speech)**: Converts translated text to human-like speech using OpenAI TTS.
+- **TTS (Text-to-Speech)**: Converts translated text to human-like speech using GTTS.
 
 ## Installation
 
